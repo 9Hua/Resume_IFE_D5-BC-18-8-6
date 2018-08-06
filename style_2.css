@@ -1,0 +1,68 @@
+html {
+    font-family: 'Noto Sans S Chinese', Arial, sans-serif;
+    font-size: 10px;
+}
+
+body {
+    margin: 0;
+
+    font-size: 1.8rem;
+    word-wrap: break-word;
+
+    background: rgb(228, 228, 228);
+}
+
+main {
+    overflow: hidden;
+
+    margin-right: auto;
+    margin-left: auto;
+    border: .65rem solid rgb(255, 255, 255);
+    width: 89rem;
+
+    background: rgb(255, 255, 255);
+}
+
+h1 {
+    float: left;
+
+    margin: 0 2.22rem -200rem 0;
+    padding: 6rem 5.6rem 200rem 5.6rem;
+    
+    font-size: 3.3rem;
+    color: #ffffff;
+    background: #3f8ef9;
+}
+
+.main-info {
+    overflow: hidden;
+}
+
+h2 {
+    font-size: 2.4rem;
+}
+
+h3 {
+    margin-top: 1.6rem;
+    margin-bottom: 0;
+
+    font-size: 1.8rem;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+
+    font-weight: 500;
+}
+
+.text-oneline h3 {
+    display: inline;
+}
+
+.text-oneline p {
+    display: inline;
+    
+    margin-right: 4.2rem;
+    margin-left: 1.2rem;
+}
